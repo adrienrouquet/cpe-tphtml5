@@ -1,0 +1,11 @@
+div{
+	radius:20px;
+	width:200px;
+	height:250px;
+	shadow:20px;
+	background-image: linear-gradient(bottom, rgb(44,20,224 13%, rgb(144,209,209) 50%);
+	background-image: -o-linear-gradient(bottom, rgb(44,20,224 13%, rgb(144,209,209) 50%);
+	background-image: -moz-linear-gradient(bottom, rgb(44,20,224 13%, rgb(144,209,209) 50%);
+	background-image: -webkit-linear-gradient(bottom, rgb(44,20,224 13%, rgb(144,209,209) 50%);
+	background-image: -ms-linear-gradient(bottom, rgb(44,20,224 13%, rgb(144,209,209) 50%);
+}
